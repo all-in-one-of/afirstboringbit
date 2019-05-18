@@ -38,5 +38,15 @@ Thanks to the wonderful world of computer graphics and mathematics, we all can
 have perfect perspective!
 
 I will be implementing this in Houdini because learning how to use and develop
-for another DCC application would be another boring bit.
+for another DCC application would be another boring bit. Houdini has the
+non-commercial version which is free for anyone to use.
 
+## Todo
+
+- [ ] Implement shader that will paint grids on the object
+- [ ] Implement fisheye camera in VEX/CVEX
+- [ ] Script to render image and copy to clipboard to easy pasting into Krita
+
+## Resources
+
+[CVEX Houdini fisheye camera - Matt Ebb](http://mattebb.com/blog/weblog/houdini-fisheye-camera/)
