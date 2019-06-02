@@ -44,7 +44,7 @@ non-commercial version which is free for anyone to use.
 ## Todo
 
 - [ ] Implement shader that will paint grids on the object
-- [ ] Implement fisheye camera in VEX/CVEX
+- [X] Implement fisheye camera in VEX/CVEX
 - [ ] Script to render image and copy to clipboard to easy pasting into Krita
 
 ## Resources
