@@ -41,9 +41,15 @@ I will be implementing this in Houdini because learning how to use and develop
 for another DCC application would be another boring bit. Houdini has the
 non-commercial version which is free for anyone to use.
 
+## Examples
+
+![Simple scene with construction grids; Fisheye](examples/test_render_fisheye.png)
+
+![Simple scene with construction grids; Perspective](examples/test_render_perspective.png)
+
 ## Todo
 
-- [ ] Implement shader that will paint grids on the object
+- [X] Implement shader that will paint grids on the object
 - [X] Implement fisheye camera in VEX/CVEX
 - [ ] Script to render image and copy to clipboard to easy pasting into Krita
 
