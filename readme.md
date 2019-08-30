@@ -2,6 +2,7 @@
 
 ## Prologue
 
+
 Let's start at the beginning: I'm trying to route some of my creative juices
 back to drawing and digital painting. There are many online guides for the
 self-taught artist which requires discipline and hard work; I don't have as
